@@ -366,7 +366,7 @@ public class calcGUI implements ActionListener, KeyListener{
 					textField.setText("");
 				}
 				//adding division to text field
-				if(e.getKeyCode() == KeyEvent.VK_DIVIDE) {
+				if((e.getKeyCode() == KeyEvent.VK_DIVIDE) || (e.getKeyCode() == KeyEvent.VK_SLASH)){
 					num1 = Double.parseDouble(textField.getText());
 					operator = '/';
 					textField.setText("");
