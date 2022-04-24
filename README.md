@@ -12,6 +12,6 @@ Thank you for viewing!
 
 <img src="Images/Calculator%20View.png" width="300">
 
-Gif of me using my calculators features<br>
+Using my Calculators features<br>
 <img src="Images/Calc%20Gif.gif" width="300">
 
