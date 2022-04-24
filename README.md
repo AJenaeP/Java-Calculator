@@ -10,5 +10,5 @@ Implemented: array, switch, if, if-else, for, try-catch
   
 Thank you for viewing! 
 
-
+<img src="Images/Calculator%20View.png" width="100">
 ![Main View of Calculator](Images/Calculator%20View.png)
