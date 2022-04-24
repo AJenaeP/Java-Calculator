@@ -12,5 +12,5 @@ Thank you for viewing!
 
 <img src="Images/Calculator%20View.png" width="300">
 
-<video src="Images/Calc.mov" type="video/mov" width="300">
+<img src="Images/Calc%20Gif.gif" width="300">
 
