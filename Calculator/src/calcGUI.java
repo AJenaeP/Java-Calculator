@@ -2,12 +2,13 @@
 
 A calculator program using Eclipse/Spring/Swing/AWT
 
-I wanted to add a new feature to my calculator that wasn't used as much by other students so I added the 
-capability to the calculator that reads keyboard input as well as the button clicked. 
- 
-In the below code you will notice that I comment on every major section to maintain clean and understandable code.
+This is a calculator for simple calculations
 
-implemented: array, switch, if, if-else, for, try-catch
+I wanted my calculator to be different than others seen, so I added a KeyListener so my calculator can read keyboard input.
+ 
+In the code you will notice that I comment on every major section to maintain clean and understandable code.
+
+Implemented: array, switch, if, if-else, for, try-catch
   
 Thank you for viewing! 
   
