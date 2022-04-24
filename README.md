@@ -9,4 +9,6 @@ In the code you will notice that I comment on every major section to maintain cl
 Implemented: array, switch, if, if-else, for, try-catch
   
 Thank you for viewing! 
-![Main View of Calculator](Image/Calculator%20View.png)
+
+
+![Main View of Calculator](Images/Calculator%20View.png)
