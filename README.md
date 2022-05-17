@@ -1,4 +1,4 @@
-A calculator program using Eclipse/Spring/Swing/AWT
+A calculator program using Java/Eclipse/Spring/Swing/AWT
 
 This is a calculator for simple calculations
 
